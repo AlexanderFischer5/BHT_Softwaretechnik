@@ -1,3 +1,7 @@
 "Das ist mein erstes Git-Projekt"
 
 1.Das hier ist die erste Änderung
+
+2.Das hier ist eine Änderung in Branch1
+
+3.Das hier ist eine Änderung in Branch2
