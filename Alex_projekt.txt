@@ -1,3 +1,0 @@
-"Das ist mein erstes Git-Projekt"
-
-1.Das hier ist die erste Änderung
