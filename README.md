@@ -7,7 +7,7 @@ Ich habe ein öffentliches GitHub-Repository mit dem Namen `BHT_Softwaretechnik`
 ## Aufgabe 2 Eigenes Projekt hochladen
 Die Datei `Alex_projekt.txt` wurde als kleines Beispielprojekt in das Repository hochgeladen.
 
-## Aufgabe 3 Git-Befehle anwenden
+## Aufgabe 3 Git Befehle anwenden
 Ich habe verschiedene Git-Befehle angewendet: `add`, `commit`, `push`, `pull`, `status`, `diff`, `rm`, `mv`. Die einzelnen Schritte sind im Commit Verlauf nachvollziehbar.
 
 ## Aufgabe 4 Zeitreisen
