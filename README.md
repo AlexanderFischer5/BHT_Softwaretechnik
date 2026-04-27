@@ -1,5 +1,4 @@
 # Einsendeaufgabe DVC-E1 Versionsverwaltung mit Git
-
 In diesem Repository habe ich die Einsendeaufgabe zur Versionsverwaltung mit Git bearbeitet. Als Beispielprojekt habe ich die Datei [Alex_projekt.txt](./Alex_projekt.txt) verwendet.
 
 ## Aufgabe 1 Repository erstellen
